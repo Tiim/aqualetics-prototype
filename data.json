@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "level": 2,
+    "day": 2,
+    "time": { "start": "15:45", "end": "1620" },
+    "cycle": { "start": "STARTDATE", "end": "ENDDATE" },
+    "trainer": "kivi"
+  },
+  "notes": "",
+  "students": [
+    {
+      "id": 123,
+      "firstName": "Theodor",
+      "lastName": "Steiner",
+      "birthday": "01.01.2011"
+    },
+    {
+      "id": 124,
+      "firstName": "Alois",
+      "lastName": "Herzog",
+      "birthday": "01.01.2012"
+    }
+  ],
+  "goals": [
+    "Gleiten in Bauch- und Rückenlage ohne Beinbewegung",
+    "Wechselbeinschlag in Bauch- und Rückenlage",
+    "Gestreckter Sprung ins Wasser",
+    "Freier Sprung ins Wasser"
+  ],
+  "attendance": [
+    {
+      "studentId": 123,
+      "lessons": [1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+      "notes": ""
+    },
+    {
+      "studentId": 124,
+      "lessons": [1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0],
+      "notes": ""
+    }
+  ],
+  "goalAchievement": [
+    {
+      "studentId": 123,
+      "goals": [2, 1, 0, 0],
+      "passed": false,
+      "notes": "",
+      "rapport": "Theodor schwimmt und taucht sehr gerne."
+    },
+    {
+      "studentId": 124,
+      "goals": [2, 1, 2, 2],
+      "passed": false,
+      "notes": "",
+      "rapport": "Alois schwimmt und taucht sehr gerne."
+    }
+  ]
+}
