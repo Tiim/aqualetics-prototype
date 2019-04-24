@@ -1,0 +1,22 @@
+{
+  "name": "aqualetics-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "serve"
+  },
+  "dependencies": {
+    "serve": "11.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiim/aqualetics-prototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiim/aqualetics-prototype/issues"
+  },
+  "homepage": "https://github.com/Tiim/aqualetics-prototype#readme"
+}
